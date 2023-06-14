@@ -6,7 +6,7 @@
     <?php
     function writeMsg()
     {
-        echo "Hello world!";
+        echo "Hey , I'm Akash!";
     }
 
     writeMsg();
